@@ -1,0 +1,12 @@
+{
+  "id": "agents-view-world",
+  "name": "Agents World",
+  "type": "view",
+  "icon": "map",
+  "version": "1.0.0",
+  "api": 1,
+  "agents_view": {
+    "name": { "en": "Agents world", "fr": "Monde des agents" },
+    "icon": "map"
+  }
+}

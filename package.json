@@ -1,0 +1,1 @@
+{"name":"agents-view-world","version":"1.0.0","private":true,"description":"3D agents view for Harness Maxxing","license":"MIT","scripts":{"build":"node build.mjs","test":"node test/run.mjs"},"devDependencies":{"esbuild":"^0.24.0","prettier":"^3.10.1","three":"0.160.0"}}
