@@ -1,6 +1,6 @@
 {
   "id": "agents-view-world",
-  "name": "Agents World",
+  "name": { "en": "Agents World", "fr": "Monde des agents" },
   "type": "view",
   "icon": "map",
   "version": "1.0.0",
